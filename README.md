@@ -5,7 +5,7 @@ An end-to-end EDA on the US Airline Delay Cause dataset, uncovering the key driv
 ---
 
 ## 📁 Dataset
-- **Source:** Bureau of Transportation Statistics (BTS)
+- **Source:** https://www.kaggle.com/datasets/sriharshaeedala/airline-delay/data
 - **Size:** 171223, 21 columns
 - **Period:** 2013 – 2023
 - **Key columns:** `arr_flights`, `arr_del15`, `arr_delay`, `carrier_delay`, `weather_delay`, `nas_delay`, `security_delay`, `late_aircraft_delay`
